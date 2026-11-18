@@ -1,0 +1,6 @@
+{
+  "name": "Larkana Store",
+  "description": "Larkana Store — Quality Books, Dresses, Clothes, Shoes, Bags & Cosmetics with Cash on Delivery in Larkana, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
